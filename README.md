@@ -14,5 +14,5 @@
   </li>
 </ul>
 
-<h2>Start Raspberry Pi With Bash Code:<h2><br>
+<h2>Start Raspberry Pi With Bash Code:<h2>
 <code>raspivid -o - -t 0 -n -hf -w 800 -h 600 -fps 30| cvlc -vvv stream:///dev/stdin --sout '#rtp{sdp=rtsp://:8000/}' :demux=h264</code>
