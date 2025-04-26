@@ -1,6 +1,7 @@
 # RiceFieldDetection-DroneSystem
 
 <h1>Live Stream and Navigation Drone System</h1>
+<p>Making a rice disease classification with LCNN (Light Convolutional Neural Network) and a stream on raspberry pi and accessed via android for future implementation on drone</p>
 <ul>
   <li>
     <h2>Raspberry Pi System</h2>
