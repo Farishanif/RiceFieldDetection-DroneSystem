@@ -5,12 +5,12 @@
   <li>
     <h2>Raspberry Pi System</h2>
     <p>Raspberry pi equiped with some sensors, Pi camera, and a Python program that have a longitude and latitude calculation system 
-      and a live video stream equiped with my own LCNN that has been trained to detect Ricefield or Bareland</p>
+      and a live video stream equiped with my own LCNN that has been trained to detect Ricefield or Bareland.</p>
   </li>
   <li>
     <h2>Android System</h2>
     <p>Android Application equiped with the program to receive and show the live video stream from Raspberry Pi while also receive and
-    calculate current Raspberry Pi location by processing longitude and latitude data that Android receive</p>
+    calculate current Raspberry Pi location by processing longitude and latitude data that Android received.</p>
   </li>
 </ul>
 
